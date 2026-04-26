@@ -98,16 +98,3 @@ A simple salary prediction model using SQL:
 This allows estimating expected salary for a given profile.
 
 ---
-
-## 🛠️ Tech Stack
-- MySQL
-- SQL (Advanced analytics)
-- Data preprocessing with staging table approach
-
----
-
-## 📈 Future Improvements
-- Build regression model in Python
-- Create Power BI dashboard
-- Add time-series salary trends
-- Expand dataset with tech vs non-tech segmentation
